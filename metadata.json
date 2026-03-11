@@ -1,0 +1,5 @@
+{
+  "name": "Snake Game",
+  "description": "A classic pixel-style Snake game with increasing speed, high scores, and responsive controls.",
+  "requestFramePermissions": []
+}
